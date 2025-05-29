@@ -1,0 +1,125 @@
+{
+    "Products": [
+      {
+        "ProductId": "HT-1000",
+        "ProductName": "Notebook Basic 15",
+        "CategoryID": "Laptops",
+        "SupplierID": "Very Best Screens",
+        "QuantityPerUnit": 10,
+        "UnitPrice": 956.30,
+        "UnitsInStock": 10,
+        "UnitOnOrder": 0,
+        "ReorderLevel": 0,
+        "Discontinued": false        
+      },
+      {
+        "ProductId": "HT-1001",
+        "ProductName": "Tablet Pro 7",
+        "CategoryID": "Tablets",
+        "SupplierID": "Top Tech Supplies",
+        "QuantityPerUnit": 20,
+        "UnitPrice": 599.99,
+        "UnitsInStock": 20,
+        "UnitOnOrder": 0,
+        "ReorderLevel": 0,
+        "Discontinued": false
+      },
+      {
+        "ProductId": "HT-1002",
+        "ProductName": "Smartphone Ultra",
+        "CategoryID": "Smartphones",
+        "SupplierID": "Best Electronics",
+        "QuantityPerUnit": 15,
+        "UnitPrice": 799,
+        "UnitsInStock": 15,
+        "UnitOnOrder": 0,
+        "ReorderLevel": 0,
+        "Discontinued": false
+      },
+      {
+        "ProductId": "HT-1003",
+        "ProductName": "Wireless Headphones",
+        "CategoryID": "Accessories",
+        "SupplierID": "Audio Experts",
+        "QuantityPerUnit": 30,
+        "UnitPrice": 120.65,
+        "UnitsInStock": 30,
+        "UnitOnOrder": 0,
+        "ReorderLevel": 0,
+        "Discontinued": false
+      },
+      {
+        "ProductId": "HT-1004",
+        "ProductName": "Portable Charger 5000mAh",
+        "CategoryID": "Accessories",
+        "SupplierID": "Energy Goods",
+        "QuantityPerUnit": 50,
+        "UnitPrice": 49,
+        "UnitsInStock": 50,
+        "UnitOnOrder": 0,
+        "ReorderLevel": 0,
+        "Discontinued": false
+      },
+      {
+        "ProductId": "HT-1005",
+        "ProductName": "Bluetooth Speaker",
+        "CategoryID": "Accessories",
+        "SupplierID": "SoundWaves",
+        "QuantityPerUnit": 25,
+        "UnitPrice": 89,
+        "UnitsInStock": 25,
+        "UnitOnOrder": 0,
+        "ReorderLevel": 0,
+        "Discontinued": false
+      },
+      {
+        "ProductId": "HT-1006",
+        "ProductName": "4K Ultra HD TV",
+        "CategoryID": "Televisions",
+        "SupplierID": "Prime Displays",
+        "QuantityPerUnit": 5,
+        "UnitPrice": 1200.17,
+        "UnitsInStock": 5,
+        "UnitOnOrder": 0,
+        "ReorderLevel": 0,
+        "Discontinued": false
+      },
+      {
+        "ProductId": "HT-1007",
+        "ProductName": "Smartwatch V2",
+        "CategoryID": "Wearables",
+        "SupplierID": "TechGear",
+        "QuantityPerUnit": 40,
+        "UnitPrice": 249,
+        "UnitsInStock": 40,
+        "UnitOnOrder": 0,
+        "ReorderLevel": 0,
+        "Discontinued": false
+      },
+      {
+        "ProductId": "HT-1008",
+        "ProductName": "Gaming Console X",
+        "CategoryID": "Gaming",
+        "SupplierID": "Gamer's Paradise",
+        "QuantityPerUnit": 8,
+        "UnitPrice": 499,
+        "UnitsInStock": 8,
+        "UnitOnOrder": 0,
+        "ReorderLevel": 0,
+        "Discontinued": false
+      },
+      {
+        "ProductId": "HT-1009",
+        "ProductName": "Laptop Bag Xtreme",
+        "CategoryID": "Accessories",
+        "SupplierID": "Best Bags",
+        "QuantityPerUnit": 50,
+        "UnitPrice": 40.07,
+        "UnitsInStock": 50,
+        "UnitOnOrder": 0,
+        "ReorderLevel": 0,
+        "Discontinued": false
+      }
+    ]
+  }
+  
