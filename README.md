@@ -1,9 +1,13 @@
 **JSON Binding App**
 
 **What it does:** This app shows how to bind data to UI elements in SAP UI5.
+
 **Panels:** It has 4 panels: Data Binding Basics, Address Details, Product List, and Product Details.
+
 **Data Binding:** It connects the app’s data (like employee info or products) to the UI so they update automatically.
+
 **Formatter:** The app uses a formatter to format data, like currency for prices and email links.
+
 **User Interaction:** Users can view product details and email the employee directly from the app.
 
 
